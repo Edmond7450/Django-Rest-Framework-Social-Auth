@@ -26,10 +26,10 @@ $ pipenv shell
 3.  Set up the initial migration for our custom user models in users and build the database.
 
 ```
-(drfx) $ python manage.py makemigrations users
-(drfx) $ python manage.py migrate
-(drfx) $ python manage.py createsuperuser
-(drfx) $ python manage.py runserver
+$ python manage.py makemigrations users
+$ python manage.py migrate
+$ python manage.py createsuperuser
+$ python manage.py runserver
 ```
 
 4.  Endpoints
