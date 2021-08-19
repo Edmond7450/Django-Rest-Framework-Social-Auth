@@ -1,4 +1,4 @@
-# DRFx
+# Django-Rest-Framework-Social-Auth
 
 A framework for launching new Django Rest Framework projects quickly. Comes with a custom user model, login/logout/signup, social authentication via django-allauth, and more.
 
